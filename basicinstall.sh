@@ -1,3 +1,3 @@
 #!/bin/bash
 
-touch ~/testfile.txt
+touch /home/ec2-user/testfile.txt
